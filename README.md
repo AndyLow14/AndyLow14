@@ -1,16 +1,15 @@
-### Hi there 👋
+<h1 align="center"><samp>|| In the beginning, there was only one ||</samp></h1>
+<br/>
 
-<!--
-**AndyLow14/AndyLow14** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+![ezgif com-crop (1)](https://github.com/AndyLow14/AndyLow14/assets/80891206/aa581a2f-f9f6-438d-8cc6-8d068dea0dc9)
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<br/>
+<div align="center">
+<img align="center" src="https://github-readme-stats.vercel.app/api?username=andylow14&show_icons=true&theme=tokyonight&rank_icon=percentile&include_all_commits=true&show=prs_merged&hide=stars,contribs" height="222">
+</div>
+<br/>
+<br/>
+<div align="center">
+<a align="left" href="https://git.io/streak-stats"><img align="left" height="222" src="https://github-readme-streak-stats.herokuapp.com?user=andylow14&theme=buefy-dark&date_format=j%2Fn%5B%2FY%5D&exclude_days=Sun%2CSat" alt="GitHub Streak" /></a>
+<img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=andylow14&size_weight=0.5&count_weight=0.5&layout=compact&theme=tokyonight" height="222">
+</div>
