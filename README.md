@@ -10,6 +10,11 @@
 <br/>
 <br/>
 <div align="center">
-<a align="left" href="https://git.io/streak-stats"><img align="left" height="222" src="https://github-readme-streak-stats.herokuapp.com?user=andylow14&theme=buefy-dark&date_format=j%2Fn%5B%2FY%5D&exclude_days=Sun%2CSat" alt="GitHub Streak" /></a>
-<img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=andylow14&size_weight=0.5&count_weight=0.5&layout=compact&theme=tokyonight" height="222">
+<a align="center" href="https://git.io/streak-stats"><img align="center" height="222" src="https://github-readme-streak-stats.herokuapp.com?user=andylow14&theme=buefy-dark&date_format=j%2Fn%5B%2FY%5D&exclude_days=Sun%2CSat" alt="GitHub Streak" /></a>
 </div>
+<br/>
+<br/>
+<div align="center">
+<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=andylow14&size_weight=0.5&count_weight=0.5&layout=compact&theme=tokyonight" height="222">
+</div>
+
