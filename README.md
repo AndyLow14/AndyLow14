@@ -1,4 +1,4 @@
-<h1 align="center"><samp>|| In the beginning, there was only one ||</samp></h1>
+<h1 align="center"><samp>"An idiot admires complexity, a genius admires simplicity" ~ Terry</samp></h1>
 <br/>
 
 ![ezgif com-crop (1)](https://github.com/AndyLow14/AndyLow14/assets/80891206/aa581a2f-f9f6-438d-8cc6-8d068dea0dc9)
